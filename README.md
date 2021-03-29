@@ -13,4 +13,4 @@ Bem vindo ao meu livro de receitas!
 * Brócolis
 
 
-(Projeto utilizado para aplicação no curso de GIT x GitHub
+(Projeto utilizado para aplicação no curso de GIT x GitHub)
