@@ -11,3 +11,6 @@ Bem vindo ao meu livro de receitas!
 * Macarrão na chapa
 
 * Brócolis
+
+
+(Projeto utilizado para aplicação no curso de GIT x GitHub
